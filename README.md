@@ -8,6 +8,10 @@ Compress images right in your browser. PixelCompress is a single HTML file with 
 
 > The interface is in German.
 
+## About
+
+PixelCompress is a small helper I made for shrinking images at work. It was built with AI assistance using [Claude Code](https://claude.com/claude-code).
+
 ## Usage
 
 1. Download [`pixelcompress.html`](pixelcompress.html) and open it in a browser. You can also serve it with GitHub Pages or any static host.
