@@ -4,6 +4,8 @@
 
 # PixelCompress
 
+**Same quality. Less size. More possibilities.**
+
 Compress images right in your browser. PixelCompress is a single HTML file with no server, no build step and no dependencies. Your images never leave your computer.
 
 ## About
