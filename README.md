@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-compressed.png" alt="PixelCompress" width="260">
+  <img src="logo.png" alt="PixelCompress" width="260">
 </p>
 
 # PixelCompress
